@@ -46,3 +46,15 @@ html,body{
 .card__p{
 
 }
+
+.alive{
+    background-color: aqua;
+}
+
+.dead {
+    background-color: crimson;
+}
+
+.unknown {
+    background-color: blue;
+}
